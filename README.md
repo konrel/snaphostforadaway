@@ -6,7 +6,6 @@
 + **[NEW]** Blocking Location
 + **[NEW]** Blocking Weather
 + **[NEW]** Blocking Weather
-+ ~~ Potential ban prevention on 10.20 + ~~
 + Data saving (For celluar / wifi)
 + **[NEW]** Blocking My Snapchat IP LOGGER
 
