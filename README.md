@@ -3,11 +3,11 @@
 **[Includes the following]**
 + Ad Blocking
 + Analytics Blocking
++ Data saving (For celluar / wifi)
 + **[NEW]** Blocking Location
 + **[NEW]** Blocking Weather
-+ **[NEW]** Blocking Weather
-+ Data saving (For celluar / wifi)
 + **[NEW]** Blocking My Snapchat IP LOGGER
++ **[NEW]** Blocking Payments that Snapchat may force
 
 **[Credits]**
 + Justin
