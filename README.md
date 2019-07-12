@@ -5,8 +5,10 @@
 + Analytics Blocking
 + **[NEW]** Blocking Location
 + **[NEW]** Blocking Weather
-+ Potential ban prevention on 10.20 +
++ **[NEW]** Blocking Weather
++ ~~ Potential ban prevention on 10.20 + ~~
 + Data saving (For celluar / wifi)
++ **[NEW]** Blocking My Snapchat IP LOGGER
 
 **[Credits]**
 + Justin
@@ -14,7 +16,8 @@
 + Snaptools (For moral support)
 
 **[Contact]**
-+ https://github.com/Juxstin/
++ https://github.com/Juxstin/ (Currently Suspended)
++ https://github.com/Creamium/ (My Current one for now)
 + https://discord.gg/pmc5QZb (Offical Snaptools server)
 
 **[Donate]**
