@@ -15,9 +15,10 @@
 + Snaptools (For moral support)
 
 **[Contact]**
-+ https://github.com/Juxstin/ (Currently Suspended)
-+ https://github.com/Creamium/ (My Current one for now)
++ https://github.com/Juxstin/
+
 + https://discord.gg/pmc5QZb (Offical Snaptools server)
++ https://discord.gg/GRtUJKj (Offical JSnap server)
 
 **[Donate]**
 + https://shoppy.gg/product/4v33JGL
