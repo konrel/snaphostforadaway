@@ -1,0 +1,34 @@
+# Logged and created by juxstin #
+# start date:    Fri, 20 Aug 1999 00:00:00
+# last updated:   Wed, 14 Aug 2019 11:13:56 GMT
+# entries:        3023
+# format:         hosts (hosts -- in hosts file format)
+# credits:        Juxstin - https://github.com/Juxstin/Snapchat-Blocker-Magisk - https://github.com/Juxstin
+127.0.0.1 localhost
+
+::1 localhost #[IPv6]
+
+0.0.0.0 snapads.com
+0.0.0.0 crashlytics.com
+0.0.0.0 e.crashlytics.com
+0.0.0.0 reports.crashlytics.com
+0.0.0.0 usc.adserver.snapads.com
+0.0.0.0 adserver.snapads.com
+0.0.0.0 use.adserver.snapads.com
+0.0.0.0 euw.adserver.snapads.com
+0.0.0.0 ase.adserver.snapads.com
+0.0.0.0 adserver.shadow.snapads.com
+0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 sc-analytics.appspot.com
+0.0.0.0 staging2-dot-sc-analytics.appspot.com
+0.0.0.0 staging.app-analytics.snapchat.com
+0.0.0.0 ad-center.snapchat.com
+0.0.0.0 adserver.staging.snapads.com
+0.0.0.0 snapchat-snapads-portal.appspot.com
+0.0.0.0 weather.sc-jpl.com
+0.0.0.0 loc.sc-jpl.com
+0.0.0.0 loc-staging.sc-jpl.com
+0.0.0.0 loca-staging.sc-jpl.com
+0.0.0.0 loca.sc-jpl.com
+0.0.0.0 snapchat-payments-gateway.snapchat.com
+0.0.0.0 snapchat.tf
